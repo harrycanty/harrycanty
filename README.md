@@ -21,4 +21,4 @@ A Python class-based calculator for European call and put options. Supports full
 - Equity research & trading systems  
 - Simulation & probabilistic valuation  
 - Python, financial APIs  
-- Quant methods and trading operations
+- Investment analysis & deals
